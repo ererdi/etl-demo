@@ -1,0 +1,14 @@
+# Sanal ortamı Yoksay
+venv/
+
+# Otomatik oluşan veri ve veritabanı dosyalarını Yoksay
+musteriler.xlsx
+musteriler.csv
+dwh_demo.db
+
+# Power BI dosyasını Yoksay
+*.pbix
+
+# Python derleme dosyalarını yoksay
+__pycache__/
+*.pyc
